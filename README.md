@@ -8,7 +8,7 @@ Time series of hidden states for Global Oceans, which is jointly simulated by NH
 
   - Hidden_state_time_series_Global_SST.xlsx
 ## Spatial pattern of different hidden states
-![Time-series-of-SST-hidden-states](https://github.com/leiyan90/Time-series-of-SST-hidden-states/blob/main/Spatial_Patterns_of_Hidden_States_Global_SST_World_SST.jpg?raw=true)
+![Time-series-of-SST-hidden-states](Spatial_Patterns_of_Hidden_States_Global_SST_World_SST.jpg)
 
 ## Model cofigurations
 - NHMM_P simulate the dynamics of SST in the Tropical Pacific Ocean, with the transition probability among hidden states varying with seasonality terms, and smoothed global temperature.
