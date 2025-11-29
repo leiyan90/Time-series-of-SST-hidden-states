@@ -8,7 +8,8 @@ Time series of hidden states for Global Oceans, which is jointly simulated by NH
 
   - Hidden_state_time_series_Global_SST.xlsx
 ## Spatial pattern of different hidden states
-![Time-series-of-SST-hidden-states](Spatial_Patterns_of_Hidden_States_Pacific_SST.jpg)
+### Spatial Patterns of the identified five Pacific ENSO-like states by NHMM_P
+![Spatial_pattern_Pacific](Spatial_pattern_Pacific.png)
 
 ## Model cofigurations
 - NHMM_P simulate the dynamics of SST in the Tropical Pacific Ocean, with the transition probability among hidden states varying with seasonality terms, and smoothed global temperature.
